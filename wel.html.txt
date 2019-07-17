@@ -1,3 +1,6 @@
 <html>
-hello 
+<head>welcome to git !</html>
+<body>
+hello
+</body> 
 </html>
